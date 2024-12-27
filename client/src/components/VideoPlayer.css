@@ -1,0 +1,14 @@
+/* VideoPlayer.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.video-player-container {
+  text-align: center; /* Center the content */
+}
+
+.video-title {
+  font-family: 'Poppins', sans-serif; /* Use Poppins font */
+  font-weight: 600; /* Bold font for the title */
+  font-size: 2rem; /* Adjust font size */
+  color: #333; /* Darker color for readability */
+  text-align: center; /* Center-align the title */
+}
